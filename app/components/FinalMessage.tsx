@@ -47,7 +47,7 @@ export default function FinalMessage() {
         </p>
         <div className="flex justify-center mb-4">
           <QRCodeSVG 
-            value="https://www.youtube.com/"
+            value="https://bitiz2.vercel.app/"
             size={200}
             bgColor="#FFFFFF"
             fgColor="#FF0000"
